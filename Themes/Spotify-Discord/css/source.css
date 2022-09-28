@@ -16,7 +16,7 @@
   --sidebar-color: #000;
   --sidebar-panel: var(--main-color);
   --card-color: rgba(90,90,90,0.05);
-  --card-color-hover: rgba(90,90,90,0.1);
+  --card-color-hover: rgba(255,255,255,0.1);
   --card-border: #333;
   --card-radius: 4px;
   --popout-color: #282828;
